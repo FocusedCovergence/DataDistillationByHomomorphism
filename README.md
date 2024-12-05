@@ -4,9 +4,9 @@ set_seed.py is for seting seed for experiment reproductivity as in the paper
 
 add_mask.py is for adding mask for imported dataset
 
-filter_top_features.py is for filter the top m features
+filter_top_features.py is for filtering the top m features
 
-reduce_features.py is for create a temparory graph dataset same as the original dataset but with filtered features (keep features with select from above)
+reduce_features.py is for creating a temparory graph dataset same as the original dataset but with filtered features (keep features with select from above)
 
 create_homo_graph.py is for creating the distilled new 
 
